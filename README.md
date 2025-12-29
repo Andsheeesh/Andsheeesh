@@ -1,16 +1,16 @@
-## Hi there 👋
-
-<!--
-**Andsheeesh/Andsheeesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+<h1>✌ Yo, Im Andsheesh</h1>
+  
+<h2>❓ What am i doing with my life?</h2>
+  <b>A 16yo learning Java ☕</b>
+  <b>Making Minecraft Servers 🎮</b>
+<h2>👥 People that i work with:</h2>
+  <b>🥇 = SigmaBobus_ </b>
+  <b>🥈 = .Piwnica </b>
+  <b>🥉 = Ikumos </b>
+  <b>🏅 = _rzyraf_ </b>
+  <b>🏅 = Monek </b>
+<h2>📮Contact?</h2>
+  <b>1️⃣ Discord = pl.andre.dev </b>
+  <b>2️⃣ Email = andsheesh@legendhub.pl </b>
+</div>  
