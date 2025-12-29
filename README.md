@@ -8,7 +8,7 @@
   <b>🥇 = SigmaBobus_ </b>
   <b>🥈 = .Piwnica </b>
   <b>🥉 = Ikumos </b>
-  <b>🏅 = _rzyraf_ </b>
+  <b>🏅 = ICudoPL </b>
   <b>🏅 = Monek </b>
 <h2>📮Contact?</h2>
   <b>1️⃣ Discord = pl.andre.dev </b>
