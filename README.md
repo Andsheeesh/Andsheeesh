@@ -6,9 +6,7 @@
   <b>Making Minecraft Servers 🎮</b>
 <h2>👥 People that i work with:</h2>
   <b>🥇 = SigmaBobus_ </b>
-  <b>🥈 = .Piwnica </b>
   <b>🥉 = Ikumos </b>
-  <b>🏅 = ICudoPL </b>
   <b>🏅 = Monek </b>
 <h2>📮Contact?</h2>
   <b>1️⃣ Discord = pl.andre.dev </b>
